@@ -15,7 +15,7 @@ def change_theme(theme_choice):
 
 def show_info():
     """Display information about the application."""
-    title = "Plexus - Text Editor"
+    title = "Synote - NotePad App"
     message = "This is a simple text editor.\nGitHub is WIP.\nv0.1.0"
     messagebox.showinfo(title, message)
 
