@@ -41,7 +41,7 @@ def open_file():
             text_area.delete("1.0", "end")
             text_area.insert("1.0", content)
             update_window_title(file_path)
-            update_text_statistics()  # Make sure the statistics are updated when opening a file
+            update_text_statistics()
         except Exception as error:
             messagebox.showerror("Error", str(error))
 
