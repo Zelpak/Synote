@@ -67,7 +67,7 @@ def update_text_statistics(event=None):
 def update_window_title(file_path):
     """Update the title of the application window."""
     file_name = file_path.split("/")[-1].split(".")[0]
-    app.title(f"{file_name} - Plexus Text Editor")
+    app.title(f"{file_name} - Synote Text Editor")
 
 app = ctk.CTk()
 app.title("Plexus - Text Editor")
