@@ -26,4 +26,7 @@
 **Synote** is here to help you stay organized and productive, whether you're at work, at school, or just need a quick place to write down ideas. It's everything you need in a notepad app—**simple**, **reliable**, and always ready for your next big idea.
 **Old Name**: Plexus
 
+> [!NOTE]
+> You can clone this repo by using `git clone https://github.com/Zelpak/Synote.git`
+
 Made By [Zelpak](https://github.com/Zelpak)
